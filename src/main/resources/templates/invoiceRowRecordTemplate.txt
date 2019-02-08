@@ -1,0 +1,8 @@
+EMPTY
+ArticleName
+ArticleIdentifier
+OrderedQuantity
+OrderedQuantity:QuantityUnitCode
+UnitPriceAmount
+EMPTY
+RowVatRatePercent
