@@ -1,4 +1,4 @@
-# Finvoice XML to Procountor CSV
+# Finvoice XML to CSV
 
 ### How to use
 Once you get the program up and running access it in `localhost:8080`
