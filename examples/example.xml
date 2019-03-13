@@ -1,12 +1,4 @@
-
-
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
- Huom. tämä aineisto ei ole validia Finvoice aineistoa. Kyse on huomattavasti normaalia Finvoice-aineistoa lyhyemmästä esimerkistä. 
--->
-<!--
- Note. this file is not valid Finvoice. This is shortened version of Finvoice file. 
--->
 <Finvoice Version="1.3">
   <BuyerPartyDetails>
     <BuyerPartyIdentifier>000000-1</BuyerPartyIdentifier>
@@ -62,4 +54,3 @@
     <RowAmount AmountCurrencyIdentifier="EUR">843,20</RowAmount>
   </InvoiceRow>
 </Finvoice>
-
